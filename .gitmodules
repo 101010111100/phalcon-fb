@@ -1,0 +1,3 @@
+[submodule "vendor/mongo_record"]
+	path = vendor/mongo_record
+	url = git://github.com/lunaru/MongoRecord.git
