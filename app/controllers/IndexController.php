@@ -8,7 +8,7 @@ class IndexController extends Phalcon_Controller
 
 	function indexAction()
 	{
-		 $this->view->setTemplateAfter('web');
+		$this->view->setTemplateAfter('web');
 	}
 
 }
