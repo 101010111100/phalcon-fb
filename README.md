@@ -1,4 +1,5 @@
 phalcon-fb
 ==========
 
-A app squeleton for Facebook Apps and Phalcon PHP Framework
+A app squeleton for Facebook Apps and Phalcon PHP Framework with twitter bootstrap
+
